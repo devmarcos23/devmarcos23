@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!🧙‍♂️)](https://git.io/typing-svg) 
 
+##
+<div align="center">
+  Desenvolvedor de software, curioso por tecnologia, inovação e segurança digital. Entusiasta por hacking ético, investigação e por criar aplicações que realmente gerem impacto positivo na vida das pessoas.
+Valorizo ambientes colaborativos, onde ideias são compartilhadas livremente e todos estão abertos a ouvir e contribuir para soluções criativas e eficientes.
+Meu objetivo é unir habilidades técnicas e pensamento crítico para desenvolver projetos que inspirem, conectem e facilitem o dia a dia das pessoas.
+</div>
+
+##
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmarcos23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Vinícius github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarcos23&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
