@@ -25,40 +25,66 @@ Meu objetivo é unir habilidades técnicas e pensamento crítico para desenvolve
   <a href="https://www.linkedin.com/in/marcosvinicius0101" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Technologies
 
-### Main skills:
+<div style="display: inline_block">
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg'/>
+  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg'/>
+</div>
 
+## About me
 
+```java
+public class MarcosVinicius{
 
+    private String[] code = {"Java", "Python", "JavaScript", "CSS", "HTML5"};
 
+    private String[] askMeAbout = {"Web Development", "Web Scraping", "Automation", "Technology in general"};
 
+    private Map<String, List<String>> automation = Map.of("Python", List.of("Selenium", "BeautifulSoup", "Automation Scripts"));
 
-☕  ![](https://img.shields.io/badge/-JAVA☕-0D1117?style=for-the-badge&logo=java&labelColor=0D1117) |
+    class Technologies{
 
+        private Map<String, List<String>> frontEnd = Map.of(
+                "JavaScript", List.of("React"),
+                "CSS", List.of("Tailwind"));
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+        private Map<String, List<String>> backEnd = Map.of(
+                "Java", List.of("Spring Boot","REST APIs"),
+                "JavaScript", List.of("Node"));
 
+        private String[] devOps = {"Loading..."};
 
+        private Map<String, List<String>> cloudServices = Map.of("",List.of("Loading..."));
 
+        private String[] dataBases = {"PostgreSQL","MongoDB"};
+
+        private String[] generativeAI = {"GPT", "GEMINI"};
+    }
+
+    private Map<String, List<String>> architecture = Map.of(
+            "Front-end",List.of("SPA","SSR"),
+            "Back-End",List.of("microservices"),
+            "Database", List.of("Relational","NoSQL"));
+
+    public void run() {
+        System.out.println("⚡ Always learning, building and automating stuff!");
+    }
+    public void talk() {
+        System.out.println("Ask me about " + String.join(", ", askMeAbout));
+    }
+    public static void main(String[] args) {
+        new MarcosVinicius().run();
+    }
+}
+```
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
