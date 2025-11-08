@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!🧙‍♂️)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)!🧙‍♂️;Be+Welcome!🧙‍♂️)](https://git.io/typing-svg) 
 
 ##
 <div align="center">
@@ -19,14 +19,9 @@ Meu objetivo é unir habilidades técnicas e pensamento crítico para desenvolve
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devmarcos23&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-## Social
-<div>
-  <a href="https://www.linkedin.com/in/marcosvinicius0101" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 ## Technologies
 
+</br>
 <div style="display: inline_block">
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
@@ -39,6 +34,13 @@ Meu objetivo é unir habilidades técnicas e pensamento crítico para desenvolve
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg'/>
+</div>
+
+## You can find me at
+
+</br>
+<div>
+  <a href="https://www.linkedin.com/in/marcosvinicius0101" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## About me
