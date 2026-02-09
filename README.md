@@ -22,7 +22,6 @@ Meu objetivo é unir habilidades técnicas e pensamento crítico para desenvolve
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
-  <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg'/>
   <img height="30" width="40 "src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg'/>
