@@ -51,11 +51,12 @@ public class MarcosVinicius{
 
         private Map<String, List<String>> frontEnd = Map.of(
                 "JavaScript", List.of("React"),
-                "CSS", List.of("Tailwind"));
+                "CSS", List.of(""));
 
         private Map<String, List<String>> backEnd = Map.of(
                 "Java", List.of("Spring Boot","REST APIs"),
-                "JavaScript", List.of("Node"));
+                "JavaScript", List.of("Node"),
+                "TypeScript", List.of("Nest.js"));
 
         private String[] devOps = {"Loading..."};
 
@@ -72,7 +73,7 @@ public class MarcosVinicius{
             "Database", List.of("Relational","NoSQL"));
 
     public void run() {
-        System.out.println("⚡ Always learning, building and automating stuff!");
+        System.out.println("Always learning, building and automating stuff!");
     }
     public void talk() {
         System.out.println("Ask me about " + String.join(", ", askMeAbout));
